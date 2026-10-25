@@ -1,0 +1,27 @@
+[
+  {
+    "id": "FAQ-01",
+    "question": "What are your customer support hours?",
+    "answer": "Sample Office Supplies support is available Monday through Friday, 9:00 a.m. to 5:00 p.m. Malaysia time, excluding public holidays."
+  },
+  {
+    "id": "FAQ-02",
+    "question": "How do I return a product or request a refund?",
+    "answer": "Unused items may be returned within 14 days of delivery with proof of purchase. Refund requests require manual review by the support team."
+  },
+  {
+    "id": "FAQ-03",
+    "question": "When will my order be delivered?",
+    "answer": "Standard delivery normally takes three to five business days after dispatch. The sample policy does not guarantee a specific arrival date."
+  },
+  {
+    "id": "FAQ-04",
+    "question": "How do I reset my customer portal password?",
+    "answer": "Use the Forgot Password link on the customer portal sign-in page and follow the emailed reset instructions. Never share a password or reset code with support staff."
+  },
+  {
+    "id": "FAQ-05",
+    "question": "What payment methods do you accept?",
+    "answer": "The fictional store accepts bank transfer and major credit cards. An official invoice is provided after payment confirmation."
+  }
+]
